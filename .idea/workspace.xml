@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998b1aef-8360-4b12-b97e-db4f5109952d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/11984.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/手机银行App评论分析.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/simfang.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/timg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,55 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logging.conf">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vocabulary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/setting.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lda.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2966">
-              <caret line="260" selection-start-line="260" selection-start-column="2" selection-end-line="261" selection-end-column="11" />
-              <folding>
-                <element signature="e#41#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="446" />
     <option name="y" value="179" />
     <option name="width" value="1368" />
@@ -112,11 +58,6 @@
             <path>
               <item name="手机银行App评论分析" type="b2602c69:ProjectViewProjectNode" />
               <item name="手机银行App评论分析" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="手机银行App评论分析" type="b2602c69:ProjectViewProjectNode" />
-              <item name="手机银行App评论分析" type="462c0819:PsiDirectoryNode" />
-              <item name="crawler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +179,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
@@ -249,7 +189,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,13 +363,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lda.py">
+    <entry file="file://$PROJECT_DIR$/setting.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2966">
-          <caret line="260" selection-start-line="260" selection-start-column="2" selection-end-line="261" selection-end-column="11" />
-          <folding>
-            <element signature="e#41#62#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -453,10 +390,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setting.conf">
+    <entry file="file://$PROJECT_DIR$/lda.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="2966">
+          <caret line="260" selection-start-line="260" selection-start-column="2" selection-end-line="261" selection-end-column="11" />
+          <folding>
+            <element signature="e#41#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
